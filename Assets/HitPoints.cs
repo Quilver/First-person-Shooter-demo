@@ -13,9 +13,13 @@ public class HitPoints : MonoBehaviour
     }
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.name=="Player")
+        if (collision.gameObject.GetComponent<Attack>()!=null)
         {
-            Debug.Log("Has taken damage");
+            Attack attack = collision.gameObject.GetComponent<Attack>();
+            hitPoints -= attack.OnHit();
+            Debug.Log("Has taken damage, current hp: "+hitPoints);
+            if (hitPoints <= 0)
+                Destroy(gameObject.transform.parent.gameObject);
         }
     }
     // Update is called once per frame

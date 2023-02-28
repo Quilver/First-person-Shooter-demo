@@ -56,12 +56,17 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerCamera.cs" />
-    <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Weapon and attacks\Lance.cs" />
     <Compile Include="Assets\MoveCamera.cs" />
-    <Compile Include="Assets\HitPoints.cs" />
     <Compile Include="Assets\Weapon.cs" />
-    <Compile Include="Assets\Lance.cs" />
+    <Compile Include="Assets\NPC\NPC_Animator.cs" />
+    <Compile Include="Assets\PlayerCamera.cs" />
+    <Compile Include="Assets\HitPoints.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Weapon and attacks\Attack.cs" />
+    <Compile Include="Assets\Weapon and attacks\FireBall.cs" />
+    <Compile Include="Assets\NPC\NPC_AI.cs" />
+    <Compile Include="Assets\NPC\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -756,6 +761,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{42C221D3-BAF9-316B-5CF4-F685B6C66F77}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{92A6131C-8FAA-198A-DCFF-91D7DEF562C7}</Project>
       <Name>UnityEditor.UI</Name>

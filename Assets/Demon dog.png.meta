@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 523d8f09bc2b7da4294ed90c6fc391a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon dog_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 657
+        width: 45
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec8715da8ad5947b39c86322880bfb
+      internalID: 539139433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 661
+        width: 59
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92faa79fc9f3c94d93dde971e9b4702
+      internalID: 156881436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 661
+        width: 76
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eca1fbc3370aa43a32e73cbe3f829a
+      internalID: -1374469321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 660
+        width: 78
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a07575e0ff304d820019099849f2e
+      internalID: -1334597994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 661
+        width: 45
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46beb334e8d57c4d8c2c7647e56c8ea
+      internalID: -1281138893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 578
+        width: 43
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287f7b2c8d7d6d4d9e4d0db11a8820f
+      internalID: -2082136137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 584
+        width: 68
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688fcb129fcccf45b16acc851a02750
+      internalID: -1708782934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 584
+        width: 93
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56c27ede608f744931d63971dc4bab
+      internalID: 297298380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 586
+        width: 71
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6ecd5be0a4504094246a9724c7f8a
+      internalID: -1097630699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 582
+        width: 43
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beab1505d24cd649a6deec163161d20
+      internalID: 1921214724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 506
+        width: 46
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188d824da896004d96975b6e8d93bf5
+      internalID: -1084636589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 509
+        width: 76
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0937f7f96b7f243add8331010b4791
+      internalID: -363165676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 509
+        width: 84
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec81eda209ab2424c977ea9752ca3811
+      internalID: 1901761455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 515
+        width: 63
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c56ae7852cb546b02b71aa254c418
+      internalID: 796424825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 506
+        width: 45
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0506a4d00f5748a6fd91550ba6a65
+      internalID: -806612819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 429
+        width: 45
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c21516664f7644a693f21b04a8655
+      internalID: -1925891704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 65
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a83cfb9b915bdc4fb07ac5edcd4faff
+      internalID: -177253276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 431
+        width: 85
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720aa9d5a10b7434ea044b1ca61d6f67
+      internalID: -151320307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 429
+        width: 76
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a3a642f475d9444b01dde7093c3d09
+      internalID: -965815784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 428
+        width: 46
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cae00b6b1a30a4986f58eec2f966ac
+      internalID: 690353932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 358
+        width: 47
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f04200e7c83249890699f20449b33
+      internalID: -1830974603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 64
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9feb49ea227bd4a9d9ed0afee5f280
+      internalID: -1741598268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 363
+        width: 81
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e96eae60c58dd247abc160cdb07d3a0
+      internalID: 998980357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 363
+        width: 65
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2fc45f393d5484f87c75c6ba0410f6
+      internalID: -1338722887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 362
+        width: 46
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d862baed9cdfc408962b6a7400f735
+      internalID: 1512918504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 279
+        width: 48
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac88b48d08f144ca4137f9513d612a
+      internalID: -855090683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 278
+        width: 68
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22384d4eec47f41b398742917f5d40
+      internalID: 1285291291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 280
+        width: 87
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee84169e4083747ad2d0a336c49c2a
+      internalID: 1291420612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 70
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3168d88d5c963384ea16e21e4aee6d7a
+      internalID: 542896112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_29
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 280
+        width: 45
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae419dae0265c77418196e98a867a1b2
+      internalID: 796715157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 203
+        width: 47
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6dbf2cb85e5514f9f11e37dbe03b31
+      internalID: -2130831274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 201
+        width: 69
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42feb83bed4b674e9f902054b38372b
+      internalID: -1382102001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_32
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 200
+        width: 88
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e52a2938759e048bb1a85225ef9e92
+      internalID: -99026425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 199
+        width: 70
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702b0d4b153fb042af46272b94a54f2
+      internalID: 427879258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 197
+        width: 47
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662407c4fb30c545b5a18bfb59d5aed
+      internalID: 434200674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 50
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164f801d49a49d48a6cf0b263352972
+      internalID: 1882574515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 120
+        width: 66
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5232a009f4c605944b53c5a089ea5a17
+      internalID: 1069544162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 121
+        width: 85
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de5a97ee5ce1c45a227b74a68b3895
+      internalID: -836364033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 124
+        width: 62
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a530e5eff8e474aa1d2ddf5ece2bea
+      internalID: -1385317804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 124
+        width: 47
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd6a675156f604d9cb2c4d3a13873b
+      internalID: -733568430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 51
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1260ea4254da2b43852903e48f64d09
+      internalID: 1563998309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 54
+        height: 71
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2239c6eea6f39340989a94f26d66f67
+      internalID: -1238378882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 98
+        width: 6
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f39efafb0de8e48b20ac19a3ac613b
+      internalID: 2123251479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 32
+        width: 62
+        height: 74
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136ef0215b369854f8fed06e7912e3af
+      internalID: 1267217388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 90
+        width: 13
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6301485987811f8489b14ca6e29f4a20
+      internalID: 1030096048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33
+        width: 68
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf544fdf2e51da449369c59c88071bb
+      internalID: -1496448372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 55
+        width: 6
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393db72f5344a2409c087b871e99d94
+      internalID: -976177647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_47
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 41
+        width: 77
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b533890058004ca171a89c5f6b6b8
+      internalID: 2011626227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon dog_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 38
+        width: 78
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b4a7a300f9b94db2ecd1a4806fdba
+      internalID: -722691310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98c063632cfc92c419c7d941e174a9e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Demon dog_3: -1334597994
+      Demon dog_13: 796424825
+      Demon dog_20: -1830974603
+      Demon dog_41: -1238378882
+      Demon dog_5: -2082136137
+      Demon dog_15: -1925891704
+      Demon dog_31: -1382102001
+      Demon dog_34: 434200674
+      Demon dog_9: 1921214724
+      Demon dog_44: 1030096048
+      Demon dog_7: 297298380
+      Demon dog_40: 1563998309
+      Demon dog_45: -1496448372
+      Demon dog_6: -1708782934
+      Demon dog_35: 1882574515
+      Demon dog_32: -99026425
+      Demon dog_17: -151320307
+      Demon dog_12: 1901761455
+      Demon dog_46: -976177647
+      Demon dog_27: 1291420612
+      Demon dog_26: 1285291291
+      Demon dog_33: 427879258
+      Demon dog_42: 2123251479
+      Demon dog_43: 1267217388
+      Demon dog_0: 539139433
+      Demon dog_21: -1741598268
+      Demon dog_19: 690353932
+      Demon dog_4: -1281138893
+      Demon dog_2: -1374469321
+      Demon dog_10: -1084636589
+      Demon dog_25: -855090683
+      Demon dog_14: -806612819
+      Demon dog_18: -965815784
+      Demon dog_23: -1338722887
+      Demon dog_47: 2011626227
+      Demon dog_1: 156881436
+      Demon dog_36: 1069544162
+      Demon dog_38: -1385317804
+      Demon dog_48: -722691310
+      Demon dog_28: 542896112
+      Demon dog_11: -363165676
+      Demon dog_24: 1512918504
+      Demon dog_8: -1097630699
+      Demon dog_39: -733568430
+      Demon dog_29: 796715157
+      Demon dog_16: -177253276
+      Demon dog_37: -836364033
+      Demon dog_30: -2130831274
+      Demon dog_22: 998980357
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
