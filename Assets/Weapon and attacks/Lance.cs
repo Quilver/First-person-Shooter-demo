@@ -8,11 +8,14 @@ public class Lance : Attack
     PlayerMovement player;
     [SerializeField]
     float minSpeed;
+    [SerializeField]
+    AudioSource soundEffect;
     public override int OnHit()
     {
         Debug.Log(player.GetSpeed() + " out of " + minSpeed);
         if(player.GetSpeed()> minSpeed)
             return 0;
+        soundEffect.Play();
         player.Stop();
         return 1000;
     }
